@@ -1,0 +1,801 @@
+<time 0>[new arrival] process 2
+<time 0>process 2 running
+<time 1>process 2 running
+<time 2>process 2 running
+<time 3>process 2 running
+<time 4>process 2 running
+<time 5>[new arrival] process 4
+<time 5>process 2 running
+<time 6>process 2 is finished
+-----------context switching-------------
+<time 7>[new arrival] process 5
+<time 7>process 4 running
+<time 8>process 4 running
+<time 9>process 4 running
+<time 10>[new arrival] process 1
+<time 10>process 4 running
+<time 11>process 4 running
+<time 12>[new arrival] process 8
+<time 12>process 4 running
+<time 13>process 4 running
+<time 14>process 4 running
+<time 15>process 4 running
+<time 16>process 4 running
+<time 17>process 4 running
+<time 18>process 4 running
+<time 19>process 4 running
+<time 20>[new arrival] process 3
+<time 20>[new arrival] process 9
+<time 20>process 4 running
+<time 21>process 4 is finished
+-----------context switching-------------
+<time 22>process 5 running
+<time 23>process 5 running
+<time 24>process 5 running
+<time 25>[new arrival] process 6
+<time 25>process 5 running
+<time 26>process 5 running
+<time 27>process 5 running
+<time 28>process 5 running
+<time 29>process 5 running
+<time 30>process 5 running
+<time 31>process 5 running
+<time 32>process 5 running
+<time 33>process 5 running
+<time 34>process 5 running
+<time 35>process 5 running
+<time 36>process 5 running
+<time 37>process 5 running
+<time 38>process 5 running
+<time 39>process 5 running
+<time 40>[new arrival] process 7
+<time 40>process 5 running
+<time 41>process 5 is finished
+-----------context switching-------------
+<time 42>process 1 running
+<time 43>process 1 running
+<time 44>process 1 running
+<time 45>process 1 running
+<time 46>process 1 running
+<time 47>process 1 running
+<time 48>process 1 running
+<time 49>process 1 running
+<time 50>process 1 running
+<time 51>process 1 running
+<time 52>process 1 running
+<time 53>process 1 running
+<time 54>process 1 running
+<time 55>process 1 running
+<time 56>process 1 is finished
+-----------context switching-------------
+<time 57>process 8 running
+<time 58>process 8 running
+<time 59>process 8 running
+<time 60>process 8 running
+<time 61>process 8 running
+<time 62>process 8 running
+<time 63>process 8 running
+<time 64>process 8 running
+<time 65>process 8 running
+<time 66>process 8 running
+<time 67>process 8 running
+<time 68>process 8 running
+<time 69>process 8 running
+<time 70>process 8 running
+<time 71>process 8 running
+<time 72>process 8 running
+<time 73>process 8 running
+<time 74>process 8 running
+<time 75>process 8 running
+<time 76>process 8 running
+<time 77>process 8 running
+<time 78>process 8 running
+<time 79>process 8 running
+<time 80>process 8 running
+<time 81>process 8 running
+<time 82>process 8 running
+<time 83>process 8 running
+<time 84>process 8 running
+<time 85>process 8 running
+<time 86>process 8 is finished
+-----------context switching-------------
+<time 87>process 3 running
+<time 88>process 3 running
+<time 89>process 3 running
+<time 90>process 3 is finished
+-----------context switching-------------
+<time 91>process 9 running
+<time 92>process 9 running
+<time 93>process 9 running
+<time 94>process 9 running
+<time 95>process 9 running
+<time 96>process 9 running
+<time 97>process 9 running
+<time 98>process 9 running
+<time 99>process 9 running
+<time 100>process 9 running
+<time 101>process 9 running
+<time 102>process 9 is finished
+-----------context switching-------------
+<time 103>process 6 running
+<time 104>process 6 running
+<time 105>process 6 running
+<time 106>process 6 running
+<time 107>process 6 running
+<time 108>process 6 running
+<time 109>process 6 running
+<time 110>process 6 running
+<time 111>process 6 running
+<time 112>process 6 is finished
+-----------context switching-------------
+<time 113>process 7 running
+<time 114>process 7 running
+<time 115>process 7 running
+<time 116>process 7 running
+<time 117>process 7 running
+<time 118>process 7 running
+<time 119>process 7 running
+<time 120>process 7 running
+<time 121>process 7 running
+<time 122>process 7 running
+<time 123>process 7 running
+<time 124>process 7 running
+<time 125>process 7 running
+<time 126>process 7 running
+<time 127>process 7 running
+<time 128>process 7 running
+<time 129>process 7 running
+<time 130>process 7 running
+<time 131>process 7 running
+<time 132>process 7 is finished
+<time 132>---- system is idle ----
+<time 133>---- system is idle ----
+<time 134>---- system is idle ----
+<time 135>---- system is idle ----
+<time 136>---- system is idle ----
+<time 137>---- system is idle ----
+<time 138>---- system is idle ----
+<time 139>---- system is idle ----
+<time 140>---- system is idle ----
+<time 141>---- system is idle ----
+<time 142>---- system is idle ----
+<time 143>---- system is idle ----
+<time 144>---- system is idle ----
+<time 145>---- system is idle ----
+<time 146>---- system is idle ----
+<time 147>---- system is idle ----
+<time 148>---- system is idle ----
+<time 149>---- system is idle ----
+<time 150>---- system is idle ----
+<time 151>---- system is idle ----
+<time 152>---- system is idle ----
+<time 153>---- system is idle ----
+<time 154>---- system is idle ----
+<time 155>---- system is idle ----
+<time 156>---- system is idle ----
+<time 157>---- system is idle ----
+<time 158>---- system is idle ----
+<time 159>---- system is idle ----
+<time 160>---- system is idle ----
+<time 161>---- system is idle ----
+<time 162>---- system is idle ----
+<time 163>---- system is idle ----
+<time 164>---- system is idle ----
+<time 165>---- system is idle ----
+<time 166>---- system is idle ----
+<time 167>---- system is idle ----
+<time 168>---- system is idle ----
+<time 169>---- system is idle ----
+<time 170>---- system is idle ----
+<time 171>---- system is idle ----
+<time 172>---- system is idle ----
+<time 173>---- system is idle ----
+<time 174>---- system is idle ----
+<time 175>---- system is idle ----
+<time 176>---- system is idle ----
+<time 177>---- system is idle ----
+<time 178>---- system is idle ----
+<time 179>---- system is idle ----
+<time 180>---- system is idle ----
+<time 181>---- system is idle ----
+<time 182>---- system is idle ----
+<time 183>---- system is idle ----
+<time 184>---- system is idle ----
+<time 185>---- system is idle ----
+<time 186>---- system is idle ----
+<time 187>---- system is idle ----
+<time 188>---- system is idle ----
+<time 189>---- system is idle ----
+<time 190>---- system is idle ----
+<time 191>---- system is idle ----
+<time 192>---- system is idle ----
+<time 193>---- system is idle ----
+<time 194>---- system is idle ----
+<time 195>---- system is idle ----
+<time 196>---- system is idle ----
+<time 197>---- system is idle ----
+<time 198>---- system is idle ----
+<time 199>---- system is idle ----
+<time 200>[new arrival] process 10
+<time 200>process 10 running
+<time 201>process 10 running
+<time 202>process 10 running
+<time 203>process 10 running
+<time 204>process 10 running
+<time 205>process 10 running
+<time 206>process 10 running
+<time 207>process 10 running
+<time 208>process 10 running
+<time 209>process 10 running
+<time 210>process 10 is finished
+<time 0>[new arrival] process 2
+<time 0>process 2 running
+<time 1>process 2 running
+<time 2>process 2 running
+<time 3>process 2 running
+<time 4>process 2 running
+<time 5>[new arrival] process 4
+<time 5>process 2 running
+<time 6>process 2 is finished
+-----------context switching-------------
+<time 6>process 4 running
+<time 7>[new arrival] process 5
+<time 7>process 4 running
+<time 8>process 4 running
+<time 9>process 4 running
+<time 10>[new arrival] process 1
+<time 10>process 4 running
+<time 11>process 4 running
+-----------context switching-------------
+<time 12>[new arrival] process 8
+<time 12>process 5 running
+<time 13>process 5 running
+<time 14>process 5 running
+<time 15>process 5 running
+<time 16>process 5 running
+-----------context switching-------------
+<time 17>process 1 running
+<time 18>process 1 running
+<time 19>process 1 running
+<time 20>[new arrival] process 3
+<time 20>[new arrival] process 9
+<time 20>process 1 running
+<time 21>process 1 running
+-----------context switching-------------
+<time 22>process 4 running
+<time 23>process 4 running
+<time 24>process 4 running
+<time 25>[new arrival] process 6
+<time 25>process 4 running
+<time 26>process 4 running
+-----------context switching-------------
+<time 27>process 8 running
+<time 28>process 8 running
+<time 29>process 8 running
+<time 30>process 8 running
+<time 31>process 8 running
+-----------context switching-------------
+<time 32>process 5 running
+<time 33>process 5 running
+<time 34>process 5 running
+<time 35>process 5 running
+<time 36>process 5 running
+-----------context switching-------------
+<time 37>process 3 running
+<time 38>process 3 running
+<time 39>process 3 running
+<time 40>[new arrival] process 7
+<time 40>process 3 is finished
+-----------context switching-------------
+<time 40>process 9 running
+<time 41>process 9 running
+<time 42>process 9 running
+<time 43>process 9 running
+<time 44>process 9 running
+<time 45>process 9 running
+-----------context switching-------------
+<time 46>process 1 running
+<time 47>process 1 running
+<time 48>process 1 running
+<time 49>process 1 running
+<time 50>process 1 running
+-----------context switching-------------
+<time 51>process 6 running
+<time 52>process 6 running
+<time 53>process 6 running
+<time 54>process 6 running
+<time 55>process 6 running
+-----------context switching-------------
+<time 56>process 4 running
+<time 57>process 4 running
+<time 58>process 4 running
+<time 59>process 4 running
+<time 60>process 4 is finished
+-----------context switching-------------
+<time 60>process 8 running
+<time 61>process 8 running
+<time 62>process 8 running
+<time 63>process 8 running
+<time 64>process 8 running
+<time 65>process 8 running
+-----------context switching-------------
+<time 66>process 5 running
+<time 67>process 5 running
+<time 68>process 5 running
+<time 69>process 5 running
+<time 70>process 5 running
+-----------context switching-------------
+<time 71>process 7 running
+<time 72>process 7 running
+<time 73>process 7 running
+<time 74>process 7 running
+<time 75>process 7 running
+-----------context switching-------------
+<time 76>process 9 running
+<time 77>process 9 running
+<time 78>process 9 running
+<time 79>process 9 running
+<time 80>process 9 running
+-----------context switching-------------
+<time 81>process 1 running
+<time 82>process 1 running
+<time 83>process 1 running
+<time 84>process 1 running
+<time 85>process 1 is finished
+-----------context switching-------------
+<time 85>process 6 running
+<time 86>process 6 running
+<time 87>process 6 running
+<time 88>process 6 running
+<time 89>process 6 running
+<time 90>process 6 is finished
+-----------context switching-------------
+<time 90>process 8 running
+<time 91>process 8 running
+<time 92>process 8 running
+<time 93>process 8 running
+<time 94>process 8 running
+<time 95>process 8 running
+-----------context switching-------------
+<time 96>process 5 running
+<time 97>process 5 running
+<time 98>process 5 running
+<time 99>process 5 running
+<time 100>process 5 is finished
+-----------context switching-------------
+<time 100>process 7 running
+<time 101>process 7 running
+<time 102>process 7 running
+<time 103>process 7 running
+<time 104>process 7 running
+<time 105>process 7 running
+-----------context switching-------------
+<time 106>process 9 running
+<time 107>process 9 is finished
+-----------context switching-------------
+<time 107>process 8 running
+<time 108>process 8 running
+<time 109>process 8 running
+<time 110>process 8 running
+<time 111>process 8 running
+<time 112>process 8 running
+-----------context switching-------------
+<time 113>process 7 running
+<time 114>process 7 running
+<time 115>process 7 running
+<time 116>process 7 running
+<time 117>process 7 running
+-----------context switching-------------
+<time 118>process 8 running
+<time 119>process 8 running
+<time 120>process 8 running
+<time 121>process 8 running
+<time 122>process 8 running
+-----------context switching-------------
+<time 123>process 7 running
+<time 124>process 7 running
+<time 125>process 7 running
+<time 126>process 7 running
+<time 127>process 7 is finished
+-----------context switching-------------
+<time 127>process 8 running
+<time 128>process 8 running
+<time 129>process 8 running
+<time 130>process 8 running
+<time 131>process 8 running
+<time 132>process 8 is finished
+<time 132>---- system is idle ----
+<time 133>---- system is idle ----
+<time 134>---- system is idle ----
+<time 135>---- system is idle ----
+<time 136>---- system is idle ----
+<time 137>---- system is idle ----
+<time 138>---- system is idle ----
+<time 139>---- system is idle ----
+<time 140>---- system is idle ----
+<time 141>---- system is idle ----
+<time 142>---- system is idle ----
+<time 143>---- system is idle ----
+<time 144>---- system is idle ----
+<time 145>---- system is idle ----
+<time 146>---- system is idle ----
+<time 147>---- system is idle ----
+<time 148>---- system is idle ----
+<time 149>---- system is idle ----
+<time 150>---- system is idle ----
+<time 151>---- system is idle ----
+<time 152>---- system is idle ----
+<time 153>---- system is idle ----
+<time 154>---- system is idle ----
+<time 155>---- system is idle ----
+<time 156>---- system is idle ----
+<time 157>---- system is idle ----
+<time 158>---- system is idle ----
+<time 159>---- system is idle ----
+<time 160>---- system is idle ----
+<time 161>---- system is idle ----
+<time 162>---- system is idle ----
+<time 163>---- system is idle ----
+<time 164>---- system is idle ----
+<time 165>---- system is idle ----
+<time 166>---- system is idle ----
+<time 167>---- system is idle ----
+<time 168>---- system is idle ----
+<time 169>---- system is idle ----
+<time 170>---- system is idle ----
+<time 171>---- system is idle ----
+<time 172>---- system is idle ----
+<time 173>---- system is idle ----
+<time 174>---- system is idle ----
+<time 175>---- system is idle ----
+<time 176>---- system is idle ----
+<time 177>---- system is idle ----
+<time 178>---- system is idle ----
+<time 179>---- system is idle ----
+<time 180>---- system is idle ----
+<time 181>---- system is idle ----
+<time 182>---- system is idle ----
+<time 183>---- system is idle ----
+<time 184>---- system is idle ----
+<time 185>---- system is idle ----
+<time 186>---- system is idle ----
+<time 187>---- system is idle ----
+<time 188>---- system is idle ----
+<time 189>---- system is idle ----
+<time 190>---- system is idle ----
+<time 191>---- system is idle ----
+<time 192>---- system is idle ----
+<time 193>---- system is idle ----
+<time 194>---- system is idle ----
+<time 195>---- system is idle ----
+<time 196>---- system is idle ----
+<time 197>---- system is idle ----
+<time 198>---- system is idle ----
+<time 199>---- system is idle ----
+<time 200>[new arrival] process 10
+<time 200>process 10 running
+<time 201>process 10 running
+<time 202>process 10 running
+<time 203>process 10 running
+<time 204>process 10 running
+<time 205>process 10 running
+<time 206>process 10 running
+<time 207>process 10 running
+<time 208>process 10 running
+<time 209>process 10 running
+<time 210>process 10 is finished
+<time 0>[new arrival] process 2
+<time 0>process 2 running
+<time 1>process 2 running
+<time 2>process 2 running
+<time 3>process 2 running
+<time 4>process 2 running
+<time 5>[new arrival] process 4
+<time 5>process 2 running
+<time 6>process 2 is finished
+<time 7>[new arrival] process 5
+-----------context switching-------------
+<time 7>process 4 running
+<time 8>process 4 running
+<time 9>process 4 running
+<time 10>[new arrival] process 5
+-----------context switching-------------
+<time 10>process 1 running
+<time 11>process 1 running
+<time 12>[new arrival] process 8
+<time 12>process 1 running
+<time 13>process 1 running
+<time 14>process 1 running
+<time 15>process 1 running
+<time 16>process 1 running
+<time 17>process 1 running
+<time 18>process 1 running
+<time 19>process 1 running
+<time 20>[new arrival] process 8
+<time 20>[new arrival] process 8
+<time 20>process 1 running
+-----------context switching-------------
+<time 21>process 4 running
+<time 22>process 4 running
+<time 23>process 4 running
+<time 24>process 4 running
+<time 25>[new arrival] process 8
+-----------context switching-------------
+<time 25>process 6 running
+<time 26>process 6 running
+<time 27>process 6 running
+<time 28>process 6 running
+<time 29>process 6 running
+<time 30>process 6 running
+<time 31>process 6 running
+<time 32>process 6 running
+-----------context switching-------------
+<time 33>process 4 running
+-----------context switching-------------
+<time 34>process 5 running
+-----------context switching-------------
+<time 35>process 4 running
+-----------context switching-------------
+<time 36>process 5 running
+-----------context switching-------------
+<time 37>process 4 running
+-----------context switching-------------
+<time 38>process 5 running
+-----------context switching-------------
+<time 39>process 4 running
+<time 40>[new arrival] process 7
+-----------context switching-------------
+<time 40>process 5 running
+<time 41>process 5 running
+-----------context switching-------------
+<time 42>process 8 running
+-----------context switching-------------
+<time 43>process 4 running
+-----------context switching-------------
+<time 44>process 5 running
+-----------context switching-------------
+<time 45>process 8 running
+-----------context switching-------------
+<time 46>process 4 running
+-----------context switching-------------
+<time 47>process 5 running
+-----------context switching-------------
+<time 48>process 8 running
+-----------context switching-------------
+<time 49>process 5 running
+-----------context switching-------------
+<time 50>process 4 running
+-----------context switching-------------
+<time 51>process 8 running
+-----------context switching-------------
+<time 52>process 1 running
+-----------context switching-------------
+<time 53>process 5 running
+-----------context switching-------------
+<time 54>process 8 running
+-----------context switching-------------
+<time 55>process 4 is finished
+-----------context switching-------------
+<time 56>process 9 running
+-----------context switching-------------
+<time 57>process 5 running
+-----------context switching-------------
+<time 58>process 8 running
+-----------context switching-------------
+<time 59>process 1 running
+-----------context switching-------------
+<time 60>process 5 running
+-----------context switching-------------
+<time 61>process 9 running
+-----------context switching-------------
+<time 62>process 8 running
+-----------context switching-------------
+<time 63>process 3 running
+-----------context switching-------------
+<time 64>process 5 running
+-----------context switching-------------
+<time 65>process 1 running
+-----------context switching-------------
+<time 66>process 8 running
+-----------context switching-------------
+<time 67>process 9 running
+-----------context switching-------------
+<time 68>process 3 running
+-----------context switching-------------
+<time 69>process 5 running
+-----------context switching-------------
+<time 70>process 8 running
+-----------context switching-------------
+<time 71>process 1 is finished
+-----------context switching-------------
+<time 72>process 9 running
+-----------context switching-------------
+<time 73>process 3 running
+-----------context switching-------------
+<time 74>process 5 running
+-----------context switching-------------
+<time 75>process 8 running
+-----------context switching-------------
+<time 76>process 5 running
+-----------context switching-------------
+<time 77>process 9 running
+-----------context switching-------------
+<time 78>process 3 is finished
+-----------context switching-------------
+<time 79>process 8 running
+-----------context switching-------------
+<time 80>process 5 running
+-----------context switching-------------
+<time 81>process 9 running
+-----------context switching-------------
+<time 82>process 8 running
+-----------context switching-------------
+<time 83>process 5 running
+-----------context switching-------------
+<time 84>process 9 running
+-----------context switching-------------
+<time 85>process 8 running
+-----------context switching-------------
+<time 86>process 5 running
+-----------context switching-------------
+<time 87>process 9 running
+-----------context switching-------------
+<time 88>process 8 running
+-----------context switching-------------
+<time 89>process 5 running
+-----------context switching-------------
+<time 90>process 9 running
+-----------context switching-------------
+<time 91>process 8 running
+-----------context switching-------------
+<time 92>process 5 is finished
+-----------context switching-------------
+<time 93>process 9 running
+-----------context switching-------------
+<time 94>process 8 running
+-----------context switching-------------
+<time 95>process 9 running
+-----------context switching-------------
+<time 96>process 8 running
+-----------context switching-------------
+<time 97>process 6 running
+-----------context switching-------------
+<time 98>process 9 is finished
+-----------context switching-------------
+<time 99>process 8 running
+-----------context switching-------------
+<time 100>process 6 is finished
+-----------context switching-------------
+<time 101>process 8 running
+<time 102>process 8 running
+<time 103>process 8 running
+<time 104>process 8 running
+<time 105>process 8 running
+<time 106>process 8 running
+<time 107>process 8 running
+<time 108>process 8 running
+<time 109>process 8 running
+<time 110>process 8 running
+-----------context switching-------------
+<time 111>process 7 running
+-----------context switching-------------
+<time 112>process 8 running
+-----------context switching-------------
+<time 113>process 7 running
+-----------context switching-------------
+<time 114>process 8 is finished
+-----------context switching-------------
+<time 115>process 7 running
+<time 116>process 7 running
+<time 117>process 7 running
+<time 118>process 7 running
+<time 119>process 7 running
+<time 120>process 7 running
+<time 121>process 7 running
+<time 122>process 7 running
+<time 123>process 7 running
+<time 124>process 7 running
+<time 125>process 7 running
+<time 126>process 7 running
+<time 127>process 7 running
+<time 128>process 7 running
+<time 129>process 7 running
+<time 130>process 7 running
+<time 131>process 7 running
+<time 132>process 7 is finished
+<time 133>---- system is idle ----
+<time 134>---- system is idle ----
+<time 135>---- system is idle ----
+<time 136>---- system is idle ----
+<time 137>---- system is idle ----
+<time 138>---- system is idle ----
+<time 139>---- system is idle ----
+<time 140>---- system is idle ----
+<time 141>---- system is idle ----
+<time 142>---- system is idle ----
+<time 143>---- system is idle ----
+<time 144>---- system is idle ----
+<time 145>---- system is idle ----
+<time 146>---- system is idle ----
+<time 147>---- system is idle ----
+<time 148>---- system is idle ----
+<time 149>---- system is idle ----
+<time 150>---- system is idle ----
+<time 151>---- system is idle ----
+<time 152>---- system is idle ----
+<time 153>---- system is idle ----
+<time 154>---- system is idle ----
+<time 155>---- system is idle ----
+<time 156>---- system is idle ----
+<time 157>---- system is idle ----
+<time 158>---- system is idle ----
+<time 159>---- system is idle ----
+<time 160>---- system is idle ----
+<time 161>---- system is idle ----
+<time 162>---- system is idle ----
+<time 163>---- system is idle ----
+<time 164>---- system is idle ----
+<time 165>---- system is idle ----
+<time 166>---- system is idle ----
+<time 167>---- system is idle ----
+<time 168>---- system is idle ----
+<time 169>---- system is idle ----
+<time 170>---- system is idle ----
+<time 171>---- system is idle ----
+<time 172>---- system is idle ----
+<time 173>---- system is idle ----
+<time 174>---- system is idle ----
+<time 175>---- system is idle ----
+<time 176>---- system is idle ----
+<time 177>---- system is idle ----
+<time 178>---- system is idle ----
+<time 179>---- system is idle ----
+<time 180>---- system is idle ----
+<time 181>---- system is idle ----
+<time 182>---- system is idle ----
+<time 183>---- system is idle ----
+<time 184>---- system is idle ----
+<time 185>---- system is idle ----
+<time 186>---- system is idle ----
+<time 187>---- system is idle ----
+<time 188>---- system is idle ----
+<time 189>---- system is idle ----
+<time 190>---- system is idle ----
+<time 191>---- system is idle ----
+<time 192>---- system is idle ----
+<time 193>---- system is idle ----
+<time 194>---- system is idle ----
+<time 195>---- system is idle ----
+<time 196>---- system is idle ----
+<time 197>---- system is idle ----
+<time 198>---- system is idle ----
+<time 199>---- system is idle ----
+<time 200>[new arrival] process 10
+-----------context switching-------------
+<time 200>process 10 running
+<time 201>process 10 running
+<time 202>process 10 running
+<time 203>process 10 running
+<time 204>process 10 running
+<time 205>process 10 running
+<time 206>process 10 running
+<time 207>process 10 running
+<time 208>process 10 running
+<time 209>process 10 running
+<time 210>process 10 is finished
+Avarage cpu usage -
+0.676190
+0.676190
+0.682464
+Avarage waiting time -
+38.300000
+47.400000
+45.400000
+Avarage response time -
+33.900000
+12.400000
+20.900000
+Avarage turnaround time -
+52.700000
+61.800000
+59.800000
